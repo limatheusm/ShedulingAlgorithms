@@ -3,7 +3,7 @@
 ## SJF
 ## RR
 
-### Arquivo de entrada
+### Arquivo exemplo de entrada
 0 10 <br>
 1 20 <br>
 4 8 <br>
